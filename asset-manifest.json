@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/defuse-bomb/static/css/main.3e6350d9.chunk.css",
+    "main.js": "/defuse-bomb/static/js/main.516fc7d6.chunk.js",
+    "main.js.map": "/defuse-bomb/static/js/main.516fc7d6.chunk.js.map",
+    "runtime-main.js": "/defuse-bomb/static/js/runtime-main.82116f32.js",
+    "runtime-main.js.map": "/defuse-bomb/static/js/runtime-main.82116f32.js.map",
+    "static/js/2.280bdac8.chunk.js": "/defuse-bomb/static/js/2.280bdac8.chunk.js",
+    "static/js/2.280bdac8.chunk.js.map": "/defuse-bomb/static/js/2.280bdac8.chunk.js.map",
+    "static/js/3.ae4c5c49.chunk.js": "/defuse-bomb/static/js/3.ae4c5c49.chunk.js",
+    "static/js/3.ae4c5c49.chunk.js.map": "/defuse-bomb/static/js/3.ae4c5c49.chunk.js.map",
+    "index.html": "/defuse-bomb/index.html",
+    "static/css/main.3e6350d9.chunk.css.map": "/defuse-bomb/static/css/main.3e6350d9.chunk.css.map",
+    "static/js/2.280bdac8.chunk.js.LICENSE.txt": "/defuse-bomb/static/js/2.280bdac8.chunk.js.LICENSE.txt",
+    "static/media/DSC08341.1d789b71.jpeg": "/defuse-bomb/static/media/DSC08341.1d789b71.jpeg",
+    "static/media/App.css": "/defuse-bomb/static/media/THREAT-LEVEL.25ce374b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82116f32.js",
+    "static/js/2.280bdac8.chunk.js",
+    "static/css/main.3e6350d9.chunk.css",
+    "static/js/main.516fc7d6.chunk.js"
+  ]
+}
